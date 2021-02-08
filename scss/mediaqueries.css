@@ -1,0 +1,7 @@
+@media only screen and (max-width: 1024px) {
+  .section-header-wrapper__form {
+    flex-direction: column;
+  }
+}
+
+/*# sourceMappingURL=mediaqueries.css.map */
